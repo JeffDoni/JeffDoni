@@ -1,7 +1,7 @@
-### Oi! Sou o Jefferson Donizete 
+###  Oi! Sou o Jefferson Donizete 
 
 
--🔭Hoje sou estudante de desenvolvimento Web na Trybe
+### Cada dia que passa fico mais apaixonado por tecnologia!
 <div 
   <a href="https://github.com/JeffDoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffDoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
