@@ -1,7 +1,18 @@
 ###  Oi! Sou o Jefferson Donizete 
 
 
-### Cada dia que passa fico mais apaixonado por tecnologia!
+Atualmente sou um Desenvolvedor front-end e estudande do curso de Desenvolvimento Web oferecido pela Trybe.
+
+Nascido e criado em Barbacena, Minas Gerais, sempre fui apaixonado por tecnologia e por aprender coisas novas. Isso me levou a ingressar no mundo do desenvolvimento web, onde posso unir minha paixão pela tecnologia com a criatividade de construir soluções para resolver problemas reais.
+
+Quando não estou estudando ou trabalhando em projetos, gosto de praticar xadrez como um hobby. Além disso, também pratico esportes como corrida e futebol, que ajudam a manter o corpo e a mente saudáveis.
+
+Estou sempre aberto a novas oportunidades e desafios, e acredito que a aprendizagem contínua é essencial para crescer e evoluir na carreira. Estou ansioso para ver onde meu caminho como desenvolvedor front-end me levará e para contribuir para a construção de um futuro melhor.
+
+
+
+
+
 <div 
   <a href="https://github.com/JeffDoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffDoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
