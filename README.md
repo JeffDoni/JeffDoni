@@ -28,6 +28,10 @@ Estou sempre aberto a novas oportunidades e desafios, e acredito que a aprendiza
   <img align="center" alt="Jeff-Js" height="40" width="40" src="https://img.icons8.com/color/2x/javascript--v2.png">
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Jeff-react" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/128/react+original+wordmark-1324760564365629036.png">
+   <img align="center" alt="Jeff-bootstrap" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/128/bootstrap+plain+wordmark-1324760523734628183.png">
+    <img align="center" alt="Jeff-tailwind" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/128/css+tailwind-1330884282817975295.png">
+    <img align="center" alt="Jeff-tailwind" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/128/redux+original-1324760569678085188.png">
 </div>
 
 ## Contatos
