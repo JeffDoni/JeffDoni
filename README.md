@@ -4,13 +4,29 @@
    </div>
 
 
-Atualmente sou um Desenvolvedor front-end e estudande do curso de Desenvolvimento Web oferecido pela Trybe.
+## Sobre mim 👋
 
-Nascido e criado em Barbacena, Minas Gerais, sempre fui apaixonado por tecnologia e por aprender coisas novas. Isso me levou a ingressar no mundo do desenvolvimento web, onde posso unir minha paixão pela tecnologia com a criatividade de construir soluções para resolver problemas reais.
+- Sou um Desenvolvedor front-end e estudante do curso de Desenvolvimento Web oferecido pela Trybe.
+- Nascido e criado em Barbacena, Minas Gerais.
+- Apaixonado por tecnologia e por aprender coisas novas.
 
-Quando não estou estudando ou trabalhando em projetos, gosto de praticar xadrez como um hobby. Além disso, também pratico esportes como corrida e futebol, que ajudam a manter o corpo e a mente saudáveis.
+## Paixão pelo Desenvolvimento Web 💻
 
-Estou sempre aberto a novas oportunidades e desafios, e acredito que a aprendizagem contínua é essencial para crescer e evoluir na carreira. Estou ansioso para ver onde meu caminho como desenvolvedor front-end me levará e para contribuir para a construção de um futuro melhor.
+- Ingressei no mundo do desenvolvimento web para unir sua paixão pela tecnologia com a criatividade de construir soluções para resolver problemas reais.
+- Estou sempre buscando aprender e me atualizar no que há de mais recente no desenvolvimento web.
+
+## Hobbies e interesses 🎨
+
+- Pratico xadrez como um hobby.
+- Pratico esportes como corrida e futebol para manter o corpo e a mente saudáveis.
+
+## Mentalidade de aprendizado contínuo 📚
+
+- Acredito que a aprendizagem contínua é essencial para crescer e evoluir na carreira.
+- Estou sempre aberto a novas oportunidades e desafios para se desenvolver.
+
+
+
 
 
 
