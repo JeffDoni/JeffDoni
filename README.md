@@ -6,7 +6,7 @@
 
 ## Sobre mim 👋
 
-- Sou um Desenvolvedor front-end e estudante do curso de Desenvolvimento Web oferecido pela Trybe.
+- Sou um Desenvolvedor front-end.
 - Nascido e criado em Barbacena, Minas Gerais.
 - Apaixonado por tecnologia e por aprender coisas novas.
 
