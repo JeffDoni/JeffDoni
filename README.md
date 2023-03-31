@@ -12,7 +12,7 @@
 
 ## Paixão pelo Desenvolvimento Web 💻
 
-- Ingressei no mundo do desenvolvimento web para unir sua paixão pela tecnologia com a criatividade de construir soluções para resolver problemas reais.
+- Ingressei no mundo do desenvolvimento web para unir minha paixão pela tecnologia com a criatividade de construir soluções para resolver problemas reais.
 - Estou sempre buscando aprender e me atualizar no que há de mais recente no desenvolvimento web.
 
 ## Hobbies e interesses 🎨
