@@ -7,7 +7,7 @@
 ## Sobre mim 👋
 
 - Sou um Desenvolvedor web.
-- Nascido e criado em Barbacena, Minas Gerais.
+- Nascido e criado em Barbacena/MG.
 - Apaixonado por tecnologia e por aprender coisas novas.
 
 ## Paixão pelo Desenvolvimento Web 💻
