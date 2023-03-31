@@ -6,7 +6,7 @@
 
 ## Sobre mim 👋
 
-- Sou um Desenvolvedor front-end.
+- Sou um Desenvolvedor web.
 - Nascido e criado em Barbacena, Minas Gerais.
 - Apaixonado por tecnologia e por aprender coisas novas.
 
